@@ -1,3 +1,6 @@
+![th](https://github.com/user-attachments/assets/0d619e5e-71d9-4048-afc8-b07d26a676c1)
+
+
 # travel-hospitality-data-pipeline-databricks
 End-to-end Databricks ETL Pipeline using Medallion Architecture, Delta Lake, PySpark, Metadata-driven Incremental Ingestion, and SCD2 Customer Dimension.
 
